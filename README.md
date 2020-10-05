@@ -1,1 +1,1 @@
-# IBM-Visual-Recognition
+# IBM-Visual-Recognition-App
